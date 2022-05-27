@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **trolo#4890**
+- 📫 How to reach me **trollo#4890**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
