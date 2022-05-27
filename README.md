@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm trollo</h1>
+<h3 align="center">An Astolfo Fanboy</h3>
 
 - 🔭 I’m currently working on [Phantom](https://github.com/SomePineaple/Phantom)
 
