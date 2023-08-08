@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm trollo</h1>
+<h1 align="center">Hi 👋, I'm Chloe</h1>
 <h3 align="center">An Astolfo Fanboy</h3>
 
-- 🔭 I’m currently working on [Phantom](https://github.com/SomePineaple/Phantom)
+- 🌱 I’m currently learning **C**
 
-- 🌱 I’m currently learning **C++ and Rust**
+- 💬 Ask me about **linux**
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **trollo#4890**
+- 📫 How to reach me **femboii.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
